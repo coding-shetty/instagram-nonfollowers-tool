@@ -1,1 +1,2 @@
-instaloader
+# Python 3.9+ required (instaloader 4.15+ dropped 3.8)
+instaloader==4.15.3
